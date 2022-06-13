@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PS2017015 Rest API</string>
+
+    <string name="fragment_posts_list_name">Posts</string>
+    <string name="fragment_post_details_name">Post Details</string>
+    <string name="fragment_comments_list_name">Comments of post {postId}</string>
+    <string name="fragment_post_details_comments">Comments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
